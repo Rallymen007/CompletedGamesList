@@ -9,3 +9,7 @@ Along the .exe file, you will need 2 different files:
 Platform,GameName,is100,Comm
 
 An example file is present in the repository.
+
+## Extra information
+Any value in the platform column is a valid platform header, so you can add as many different game platforms as you can.
+For 100% completed games to show properly, you'd need the :100percent: Steam emoticon: http://steamcommunity.com/market/listings/753/282800-%3A100percent%3A
