@@ -26,7 +26,7 @@ namespace CompletedGamesToCSV {
         }
 
         public string RenderString() {
-            return "-" + GameName + (is100 ? " :100percent:":String.Empty) + " " + (Comm != null ? Comm:String.Empty);
+            return "-" + GameName + (is100 ? " :100percent:":String.Empty) + " " + ( (Comm != null && Comm != "None") ? Comm:String.Empty);
         }
 
         public CompletionData(string csvline) {
@@ -70,10 +70,14 @@ namespace CompletedGamesToCSV {
 
             using(FileStream fs = File.Open(destinationfile, FileMode.Create)) {
                 using (StreamWriter sw = new StreamWriter(fs)) {
-                    using (FileStream headerStream = File.Open(headerFile, FileMode.Open)) {
-                        using (StreamReader headerReader = new StreamReader(headerStream)) {
-                            sw.WriteLine(headerReader.ReadLine());
+                    try {
+                        using (FileStream headerStream = File.Open(headerFile, FileMode.Open)) {
+                            using (StreamReader headerReader = new StreamReader(headerStream)) {
+                                sw.WriteLine(headerReader.ReadLine());
+                            }
                         }
+                    } catch (Exception) {
+                        Console.WriteLine("Header cannot be opened");
                     }
 
                     foreach (var plat in data) {
