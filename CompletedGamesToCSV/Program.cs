@@ -73,7 +73,8 @@ namespace CompletedGamesToCSV {
                     try {
                         using (FileStream headerStream = File.Open(headerFile, FileMode.Open)) {
                             using (StreamReader headerReader = new StreamReader(headerStream)) {
-                                sw.WriteLine(headerReader.ReadLine());
+                                while(!headerReader.EndOfStream)
+                                    sw.WriteLine(headerReader.ReadLine());
                             }
                         }
                     } catch (Exception) {
