@@ -10,6 +10,10 @@ Platform,GameName,is100,Comm
 
 An example file is present in the repository.
 
+## NEW in Release 4
+Generation of HTML lists, if you're so good you overflow the Steam section size.
+
 ## Extra information
 Any value in the platform column is a valid platform header, so you can add as many different game platforms as you can.
 For 100% completed games to show properly, you'd need the :100percent: Steam emoticon: http://steamcommunity.com/market/listings/753/282800-%3A100percent%3A
+You can find a bundled style.css file to use for HTML generated lists.

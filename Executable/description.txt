@@ -1,4 +1,7 @@
-You can checkout the backup of my Xfire (RIP sweet prince) screenshot gallery over here: http://rallymen007.polybotes.feralhosting.com/Xfire/ 
+You can check out the backup of my Xfire (RIP sweet prince) screenshot gallery over here: http://rallymen007.polybotes.feralhosting.com/Xfire/ 
+
+This list is made using https://github.com/Rallymen007/CompletedGamesList 
+Also, please Valve increase the character cap because I'M TOO FUCKING GOOD FOR THIS
 [b]PC[/b]
 -007 Legends :100percent: (that was a mistake)
 -007 Quantum of Solace :100percent: 
@@ -53,6 +56,8 @@ You can checkout the backup of my Xfire (RIP sweet prince) screenshot gallery ov
 -Crysis 2 
 -Crysis 3 
 -Crysis Warhead 
+-Dead Effect :100percent: (all collectibles and done in hard difficulty)
+-Dead Effect 2 :100percent: 
 -Dead Island :100percent: 
 -DeadCore :100percent: 
 -Depth Hunter 2 :100percent: 
@@ -84,9 +89,10 @@ You can checkout the backup of my Xfire (RIP sweet prince) screenshot gallery ov
 -FlatOut :100percent: 
 -FlatOut 2 :100percent: 
 -FlatOut: Ultimate Carnage :100percent: 
+-Ford Racing 3 :100percent: 
 -Foreign Legion: Buckets of Blood :100percent: 
 -Forza Horizon 3 (PC/Xbox One, all showcases, all festival upgrades)
--Forza Motorsport 6: Apex (12 tours in platinum, Champion III, ForzaHub 100%)
+-Forza Motorsport 6: Apex :100percent: (12 tours in platinum, Champion IV, ForzaHub 100%, not all the medals but they're pointless)
 -Frontlines: Fuel of War 
 -FUEL :100percent: 
 -GRID 2 :100percent: 
@@ -151,7 +157,7 @@ You can checkout the backup of my Xfire (RIP sweet prince) screenshot gallery ov
 -Peggle :100percent: 
 -Peggle Nights :100percent: 
 -Portal :100percent: 
--Portal 2 :100percent: (shoutout to Popex for the coop mode)
+-Portal 2 :100percent: (shoutout to Azatoth for the coop mode)
 -Portal Stories: Mel 
 -PREY 
 -Prototype :100percent: (not 100% because the events are tedious beyond all reason)
@@ -261,5 +267,10 @@ You can checkout the backup of my Xfire (RIP sweet prince) screenshot gallery ov
 -WRC 
 
 [b]Xbox 360[/b]
--Forza Horizon (Xbox One backwards compatibility, 100% completion, DLCs not yet completed)
+-Forza Horizon (Xbox One backwards compatibility, 100% completion, ForzaHub 100%, Rally not available)
+
+[b]Android[/b]
+-Lifeline :100percent: (best ending)
+-Lifeline: Halfway to Infinity :100percent: (best ending)
+-Lifeline: Silent Night :100percent: (best ending)
 
