@@ -1,261 +1,269 @@
-Platform,GameName,is100,Comm
-PC,007 Legends,TRUE,(that was a mistake)
-PC,007 Quantum of Solace,TRUE,None
-PC,1...2...3 Kick It,FALSE,None
-PC,A.R.E.S Extinction Agenda,FALSE,None
-PC,Alien Breed 2: Assault,TRUE,None
-PC,Alien Breed 3: Descent,TRUE,None
-PC,Alien Breed: Impact,TRUE,None
-PC,All Zombies Must Die,FALSE,None
-PC,Alone In The Dark,TRUE,None
-PC,Alpha Prime,FALSE,None
-PC,And Yet It Moves,FALSE,None
-PC,Antenna,TRUE,None
-PC,Bastion,FALSE,None
-PC,Batman Arkham Asylum,TRUE,None
-PC,Battlefield 1942,FALSE,None
-PC,Battlefield Bad Company 2,FALSE,None
-PC,Betrayer,TRUE,None
-PC,Binary Domain,TRUE,(except dead MP mode)
-PC,BioShock,FALSE,None
-PC,BioShock 2,FALSE,None
-PC,BioShock Infinite,TRUE,None
-PC,Blur,FALSE,None
-PC,Borderlands,TRUE,"(coop with Azatoth, Popex and Mateos)"
-PC,Broken Sword 2: The Smoking Mirror,FALSE,None
-PC,Broken Sword: Shadow of the Templars,FALSE,None
-PC,Bully: Scholarship Edition,TRUE,None
-PC,Call of Duty,FALSE,None
-PC,Call of Duty 2,FALSE,None
-PC,Call of Duty 4: Modern Warfare,FALSE,None
-PC,Call of Duty: Black Ops,FALSE,None
-PC,Call of Duty: Black Ops II,FALSE,None
-PC,Call of Duty: Black Ops III,FALSE,(campaign in coop with Azatoth)
-PC,Call of Duty: Modern Warfare 2,FALSE,None
-PC,Call of Duty: Modern Warfare 3,FALSE,None
-PC,Call of Duty: World at War,FALSE,None
-PC,Car Mechanic Simulator 2014,FALSE,(main game)
-PC,Chime,FALSE,None
-PC,Clandestine,TRUE,(entirely in coop with Azatoth)
-PC,Clive Barker's Jericho,FALSE,None
-PC,Colin McRae Rally,FALSE,None
-PC,Colin McRae Rally 04,TRUE,None
-PC,Colin McRae Rally 2,FALSE,None
-PC,Colin McRae Rally 2005,TRUE,None
-PC,Colin McRae Rally 3,TRUE,None
-PC,Condemned: Criminals Origins,FALSE,None
-PC,Counter-Strike Condition Zero Deleted Scenes,FALSE,None
-PC,Crash Time II,TRUE,None
-PC,Crash Time III,TRUE,None
-PC,Cryostasis,FALSE,None
-PC,Crysis,FALSE,None
-PC,Crysis 2,FALSE,None
-PC,Crysis 3,FALSE,None
-PC,Crysis Warhead,FALSE,None
-PC,Dead Island,TRUE,None
-PC,DeadCore,TRUE,None
-PC,Depth Hunter 2,TRUE,None
-PC,Derrick meurtre dans un parterre de fleurs,FALSE,(shoutout to Azatoth)
-PC,Deus Ex,FALSE,None
-PC,Dinner Date,FALSE,(lel)
-PC,DiRT,TRUE,None
-PC,DiRT 2,TRUE,None
-PC,DiRT 3,TRUE,None
-PC,DiRT Showdown,TRUE,None
-PC,DOOM,FALSE,None
-PC,DOOM 3,FALSE,None
-PC,DOOM II,FALSE,None
-PC,Driver Parallel Lines,TRUE,None
-PC,Driver San Francisco,TRUE,None
-PC,Duke Nukem 3D,FALSE,None
-PC,Duke Nukem Forever,FALSE,None
-PC,F.E.A.R,FALSE,None
-PC,F.E.A.R 2,FALSE,None
-PC,F.E.A.R Extraction Point,FALSE,None
-PC,F.E.A.R Perseus Mandate,FALSE,None
-PC,F1 2010,TRUE,None
-PC,Fallout 3,TRUE,None
-PC,Far Cry 2,TRUE,None
-PC,FarCry,FALSE,None
-PC,FBI Hostage Rescue,FALSE,None
-PC,Fireburst,TRUE,None
-PC,FlatOut,TRUE,None
-PC,FlatOut 2,TRUE,None
-PC,FlatOut: Ultimate Carnage,TRUE,None
-PC,Foreign Legion: Buckets of Blood :100percent:,FALSE,None
-PC,Frontlines: Fuel of War,FALSE,None
-PC,FUEL,TRUE,None
-PC,GRID 2,TRUE,None
-PC,GTA III,TRUE,None
-PC,GTA IV,TRUE,None
-PC,GTA IV Episodes from Liberty City,FALSE,None
-PC,GTA San Andreas,TRUE,None
-PC,GTA V,TRUE,(nearly 100% SC completion but random events are glitched)
-PC,GTA Vice City,TRUE,None
-PC,Hack'n'Slash,FALSE,None
-PC,Half-Life,FALSE,None
-PC,Half-Life 2,FALSE,None
-PC,Half-Life 2: Episode One,FALSE,None
-PC,Half-Life 2: Episode Two,FALSE,None
-PC,Half-Life: Blue Shift,FALSE,None
-PC,Half-Life: Opposing Force,FALSE,None
-PC,Halo,FALSE,None
-PC,Halo 2,FALSE,(H3 on PC when?)
-PC,HOMEFRONT,FALSE,None
-PC,Hydrophobia: Prophecy :100percent:,FALSE,None
-PC,Ignite,TRUE,None
-PC,Insane 2,TRUE,None
-PC,James Bond 007 Nightfire,FALSE,None
-PC,Juiced,FALSE,None
-PC,Juiced 2,FALSE,None
-PC,Just Cause 2,TRUE,None
-PC,Kane & Lynch,FALSE,None
-PC,Kane & Lynch 2: Dog Days,FALSE,None
-PC,Lara Croft and the Guardian of Light,TRUE,(and I'm proud of that one - shoutout to Popex :B1:)
-PC,Limbo,FALSE,None
-PC,Manhunt,FALSE,None
-PC,Manhunt 2,FALSE,None
-PC,Max Payne,FALSE,None
-PC,Max Payne 2,FALSE,None
-PC,Max Payne 3,FALSE,None
-PC,Medal of Honor: Airborne,TRUE,None
-PC,Medal of Honor: Pacific Assault,FALSE,None
-PC,Mercedes-Benz World Racing,TRUE,None
-PC,Metal Gear Solid,FALSE,None
-PC,Mining and Tunneling Simulator,FALSE,None
-PC,Mirror's Edge,TRUE,None
-PC,Nail'd,TRUE,None
-PC,NaissanceE,FALSE,None
-PC,Need for Speed 4: High Stakes,FALSE,None
-PC,Need for Speed II,FALSE,None
-PC,Need for Speed III: Hot Pursuit,FALSE,None
-PC,Need for Speed: Carbon,TRUE,None
-PC,Need for Speed: Hot Pursuit 2010,TRUE,None
-PC,Need for Speed: Hot Pursuit 2,TRUE,None
-PC,Need for Speed: Most Wanted,TRUE,None
-PC,Need for Speed: Most Wanted 2012,TRUE,(except the grindy as all hell online mode)
-PC,Need for Speed: Porsche 2000,FALSE,None
-PC,Need for Speed: ProStreet,TRUE,None
-PC,Need for Speed: Shift,TRUE,None
-PC,Need for Speed: Shift 2,TRUE,None
-PC,Need for Speed: The Run,FALSE,None
-PC,Need for Speed: Undercover,TRUE,None
-PC,Need for Speed: Underground,TRUE,None
-PC,Need for Speed: Underground 2,TRUE,None
-PC,OutRun 2006,FALSE,(that game is so fun)
-PC,Peggle,TRUE,None
-PC,Peggle Nights,TRUE,None
-PC,Portal,TRUE,None
-PC,Portal 2,TRUE,(shoutout to Azatoth for the coop mode)
-PC,Portal Stories: Mel,FALSE,None
-PC,PREY,FALSE,None
-PC,Prototype,TRUE,(not 100% because the events are tedious beyond all reason)
-PC,Psychonauts,FALSE,None
-PC,PURE,FALSE,None
-PC,Quake,FALSE,None
-PC,Quake 2,FALSE,None
-PC,Quake 4,FALSE,None
-PC,Quake III,FALSE,None
-PC,Quantum Conundrum,TRUE,None
-PC,Race Driver GRID,TRUE,None
-PC,Radiator 2,TRUE,None
-PC,Rallisport Challenge,FALSE,None
-PC,Red Faction,FALSE,None
-PC,Red Faction 2,FALSE,None
-PC,Red Faction Guerrilla,TRUE,"(except MP, finished both on GFWL and Steam)"
-PC,Red Faction: Armageddon,TRUE,None
-PC,Refunct,TRUE,None
-PC,Rexaura,FALSE,(w/ all 3 cakes :B1:ê)
-PC,Ridge Racer Unbounded,TRUE,None
-PC,Scribblenauts Unlimited,TRUE,None
-PC,SEGA RALLY,FALSE,None
-PC,Serious Sam: The First Encounter Classic,FALSE,None
-PC,Serious Sam: The Second Encounter Classic,FALSE,None
-PC,Shadowgrounds,FALSE,None
-PC,Shadowgrounds Survivor,FALSE,None
-PC,Shatter,FALSE,None
-PC,Silent Hill 2,FALSE,None
-PC,SiN,FALSE,None
-PC,SiN Episodes : Emergence,FALSE,(tfw no sequel)
-PC,Singularity,FALSE,None
-PC,Sleeping Dogs,TRUE,None
-PC,Sniper Elite,FALSE,None
-PC,Sniper: Ghost Warrior,TRUE,None
-PC,Sniper: Ghost Warrior 2,TRUE,(shoutout to Vore for the MP mode)
-PC,Sonic and All-Stars Racing Transformed,TRUE,None
-PC,Sonic R,TRUE,None
-PC,Sonic The Hedgehog 4: Episode 1,FALSE,None
-PC,Sonic The Hedgehog 4: Episode 2,FALSE,None
-PC,Spec Ops: The Line,TRUE,None
-PC,Split/Second,TRUE,None
-PC,Stranglehold,FALSE,None
-PC,Street Racing Syndicate,TRUE,(not 100% because too tedious)
-PC,Test Drive Ferrari Racing Legends,TRUE,None
-PC,Test Drive Unlimited,FALSE,None
-PC,Test Drive Unlimited 2,FALSE,None
-PC,The 39 Steps,FALSE,None
-PC,The Godfather,FALSE,None
-PC,Need for Speed,FALSE,None
-PC,Thirty Flights of Loving,FALSE,None
-PC,To The Moon,FALSE,(gold game)
-PC,ToCA Race Driver 2,TRUE,None
-PC,Tom Clancy's Ghost Recon Advanced Warfighter,FALSE,None
-PC,Tom Clancy's Ghost Recon Advanced Warfighter 2,FALSE,None
-PC,Tom Clancy's H.A.W.X,TRUE,None
-PC,Tom Clancy's H.A.W.X 2,TRUE,None
-PC,Tom Clancy's Rainbow Six Vegas,FALSE,None
-PC,Tom Clancy's Rainbow Six Vegas 2,FALSE,None
-PC,Tomb Raider 3,FALSE,None
-PC,Tomb Raider: Anniversary,TRUE,None
-PC,Tomb Raider: Legend,TRUE,None
-PC,Tomb Raider: Underworld,TRUE,None
-PC,Total Immersion Racing,TRUE,None
-PC,Transmissions: Element 120,TRUE,None
-PC,Trine,FALSE,None
-PC,V8 Superstars,TRUE,None
-PC,V-Rally 3,TRUE,None
-PC,Watch_Dogs,TRUE,"(well apart from the online ""deathmatch"" but I'm going to pretend it doesn't exist)"
-PC,World Racing 2,TRUE,None
-PC,WRC 2,TRUE,None
-PC,WRC 2010,TRUE,None
-PC,WRC 3,TRUE,None
-PS1,007 The World Is Not Enough,FALSE,None
-PS1,Gran Turismo,TRUE,None
-PS1,Gran Turismo 2,TRUE,None
-PS1,V-Rally 2,FALSE,None
-PS2,Gran Turismo 3,TRUE,None
-PS2,Gran Turismo 4,TRUE,None
-PS2,Gran Turismo 4: Prologue,FALSE,None
-PS2,Medal of Honor: European Assault,FALSE,None
-PS2,Medal of Honor: Frontline,FALSE,(PCSX2)
-PS2,Medal of Honor: Rising Sun,FALSE,None
-PS2,Tourist Trophy,FALSE,None
-PS2,WRC 3,FALSE,None
-PSP,Burnout Dominator,FALSE,None
-PSP,Dead of Alive Paradise,FALSE,(titties :B1:)
-PSP,DiRT 2,TRUE,None
-PSP,F1 2009,FALSE,None
-PSP,Gran Turismo,TRUE,None
-PSP,Loco Roco,FALSE,None
-PSP,Loco Roco 2,FALSE,None
-PSP,Need for Speed: Most Wanted,TRUE,None
-PSP,Need for Speed: Underground Rivals,TRUE,None
-PSP,WRC,FALSE,None
-PC,Wild Animal Racing,TRUE,wew
-PC,Roadside Assistance Simulator,TRUE,None
-PC,WRC 4,TRUE,(shoutout to kylzemol for helping with the online mode)
-PC,Sniper Elite V2,TRUE,(thanks Azatoth for the coop mode)
-PC,Enforcer: Police Crime Action,TRUE,"(Chief of Police, luxury car, all weapons)"
-PC,Viscera Cleanup Detail: Santa's Rampage,TRUE,(with Azatoth in coop)
-PC,The First Templar,TRUE,(in coop with Popex)
-PC,SkyDrift,TRUE,(thanks Azatoth and kylzemol for the online mode)
-PC,The Crew,FALSE,(coop with ebloodmaker and binou)
-PC,Forza Motorsport 6: Apex,TRUE,"(12 tours in platinum, Champion IV, ForzaHub 100%, not all the medals but they're pointless)"
-Xbox 360,Forza Horizon,FALSE,"(Xbox One backwards compatibility, 100% completion, ForzaHub 100%, Rally not available)"
-PC,Forza Horizon 3,FALSE,"(PC/Xbox One, all showcases, all festival upgrades)"
-Android,Lifeline,TRUE,(best ending)
-Android,Lifeline: Silent Night,TRUE,(best ending)
-PC,Dead Effect,TRUE,(all collectibles and done in hard difficulty)
-Android,Lifeline: Halfway to Infinity,TRUE,(best ending)
-PC,Dead Effect 2,TRUE,
-PC,Ford Racing 3,TRUE,
+Platform,GameName,is100,Comm,Priority
+PC,007 Legends,TRUE,(that was a mistake),0
+PC,007 Quantum of Solace,TRUE,None,0
+PC,1...2...3 Kick It,FALSE,None,0
+PC,A.R.E.S Extinction Agenda,FALSE,None,0
+PC,Alien Breed 2: Assault,TRUE,None,0
+PC,Alien Breed 3: Descent,TRUE,None,0
+PC,Alien Breed: Impact,TRUE,None,0
+PC,All Zombies Must Die,FALSE,None,0
+PC,Alone In The Dark,TRUE,None,1
+PC,Alpha Prime,FALSE,None,0
+PC,And Yet It Moves,FALSE,None,0
+PC,Antenna,TRUE,None,0
+PC,Bastion,FALSE,None,0
+PC,Batman Arkham Asylum,TRUE,None,0
+PC,Battlefield 1942,FALSE,None,0
+PC,Battlefield Bad Company 2,FALSE,None,0
+PC,Betrayer,TRUE,None,0
+PC,Binary Domain,TRUE,(except dead MP mode),1
+PC,BioShock,FALSE,None,1
+PC,BioShock 2,FALSE,None,1
+PC,BioShock Infinite,TRUE,None,1
+PC,Blur,FALSE,None,1
+PC,Borderlands,TRUE,"(coop with Azatoth, Popex and Mateos)",1
+PC,Broken Sword 2: The Smoking Mirror,FALSE,None,0
+PC,Broken Sword: Shadow of the Templars,FALSE,None,0
+PC,Bully: Scholarship Edition,TRUE,None,0
+PC,Call of Duty,FALSE,None,1
+PC,Call of Duty 2,FALSE,None,1
+PC,Call of Duty 4: Modern Warfare,FALSE,None,1
+PC,Call of Duty: Black Ops,FALSE,None,1
+PC,Call of Duty: Black Ops II,FALSE,None,1
+PC,Call of Duty: Black Ops III,FALSE,(campaign in coop with Azatoth),1
+PC,Call of Duty: Modern Warfare 2,FALSE,None,1
+PC,Call of Duty: Modern Warfare 3,FALSE,None,1
+PC,Call of Duty: World at War,FALSE,None,1
+PC,Car Mechanic Simulator 2014,FALSE,(main game),0
+PC,Chime,FALSE,None,0
+PC,Clandestine,TRUE,(entirely in coop with Azatoth),2
+PC,Clive Barker's Jericho,FALSE,None,0
+PC,Colin McRae Rally,FALSE,None,2
+PC,Colin McRae Rally 04,TRUE,None,2
+PC,Colin McRae Rally 2,FALSE,None,2
+PC,Colin McRae Rally 2005,TRUE,None,2
+PC,Colin McRae Rally 3,TRUE,None,2
+PC,Condemned: Criminals Origins,FALSE,None,1
+PC,Counter-Strike Condition Zero Deleted Scenes,FALSE,None,2
+PC,Crash Time II,TRUE,None,1
+PC,Crash Time III,TRUE,None,1
+PC,Cryostasis,FALSE,None,1
+PC,Crysis,FALSE,None,1
+PC,Crysis 2,FALSE,None,1
+PC,Crysis 3,FALSE,None,1
+PC,Crysis Warhead,FALSE,None,1
+PC,Dead Island,TRUE,None,0
+PC,DeadCore,TRUE,None,2
+PC,Depth Hunter 2,TRUE,None,0
+PC,Derrick meurtre dans un parterre de fleurs,FALSE,(shoutout to Azatoth),0
+PC,Deus Ex,FALSE,None,0
+PC,Dinner Date,FALSE,(lel),0
+PC,DiRT,TRUE,None,2
+PC,DiRT 2,TRUE,None,2
+PC,DiRT 3,TRUE,None,2
+PC,DiRT Showdown,TRUE,None,2
+PC,DOOM,FALSE,None,0
+PC,DOOM 3,FALSE,None,0
+PC,DOOM II,FALSE,None,0
+PC,Driver Parallel Lines,TRUE,None,2
+PC,Driver San Francisco,TRUE,None,2
+PC,Duke Nukem 3D,FALSE,None,1
+PC,Duke Nukem Forever,FALSE,None,1
+PC,F.E.A.R,FALSE,None,1
+PC,F.E.A.R 2,FALSE,None,1
+PC,F.E.A.R Extraction Point,FALSE,None,1
+PC,F.E.A.R Perseus Mandate,FALSE,None,1
+PC,F1 2010,TRUE,None,2
+PC,Fallout 3,TRUE,None,1
+PC,Far Cry 2,TRUE,None,1
+PC,FarCry,FALSE,None,1
+PC,FBI Hostage Rescue,FALSE,None,2
+PC,Fireburst,TRUE,None,1
+PC,FlatOut,TRUE,None,1
+PC,FlatOut 2,TRUE,None,1
+PC,FlatOut: Ultimate Carnage,TRUE,None,1
+PC,Foreign Legion: Buckets of Blood,TRUE,None,1
+PC,Frontlines: Fuel of War,FALSE,None,0
+PC,FUEL,TRUE,None,2
+PC,GRID 2,TRUE,None,2
+PC,GTA III,TRUE,None,2
+PC,GTA IV,TRUE,None,2
+PC,GTA IV Episodes from Liberty City,FALSE,None,2
+PC,GTA San Andreas,TRUE,None,2
+PC,GTA V,TRUE,(nearly 100% SC completion but random events are glitched),2
+PC,GTA Vice City,TRUE,None,2
+PC,Hack'n'Slash,FALSE,None,0
+PC,Half-Life,FALSE,None,2
+PC,Half-Life 2,FALSE,None,2
+PC,Half-Life 2: Episode One,FALSE,None,2
+PC,Half-Life 2: Episode Two,FALSE,None,2
+PC,Half-Life: Blue Shift,FALSE,None,2
+PC,Half-Life: Opposing Force,FALSE,None,2
+PC,Halo,FALSE,None,2
+PC,Halo 2,FALSE,(H3 on PC when?),2
+PC,HOMEFRONT,FALSE,None,0
+PC,Hydrophobia: Prophecy :100percent:,FALSE,None,0
+PC,Ignite,TRUE,None,0
+PC,Insane 2,TRUE,None,0
+PC,James Bond 007 Nightfire,FALSE,None,2
+PC,Juiced,FALSE,None,1
+PC,Juiced 2,FALSE,None,1
+PC,Just Cause 2,TRUE,(that was fucking long),2
+PC,Kane & Lynch,FALSE,None,0
+PC,Kane & Lynch 2: Dog Days,FALSE,None,0
+PC,Lara Croft and the Guardian of Light,TRUE,(and I'm proud of that one - shoutout to Popex :B1:),2
+PC,Limbo,FALSE,None,0
+PC,Manhunt,FALSE,None,1
+PC,Manhunt 2,FALSE,None,1
+PC,Max Payne,FALSE,None,2
+PC,Max Payne 2,FALSE,None,2
+PC,Max Payne 3,FALSE,None,2
+PC,Medal of Honor: Airborne,TRUE,None,1
+PC,Medal of Honor: Pacific Assault,FALSE,None,1
+PC,Mercedes-Benz World Racing,TRUE,None,2
+PC,Metal Gear Solid,FALSE,None,1
+PC,Mining and Tunneling Simulator,FALSE,None,2
+PC,Mirror's Edge,TRUE,None,2
+PC,Nail'd,TRUE,None,1
+PC,NaissanceE,FALSE,None,1
+PC,Need for Speed 4: High Stakes,FALSE,None,2
+PC,Need for Speed II,FALSE,None,2
+PC,Need for Speed III: Hot Pursuit,FALSE,None,2
+PC,Need for Speed: Carbon,TRUE,None,2
+PC,Need for Speed: Hot Pursuit 2010,TRUE,None,2
+PC,Need for Speed: Hot Pursuit 2,TRUE,None,2
+PC,Need for Speed: Most Wanted,TRUE,None,2
+PC,Need for Speed: Most Wanted 2012,TRUE,(except the grindy as all hell online mode),2
+PC,Need for Speed: Porsche 2000,FALSE,None,2
+PC,Need for Speed: ProStreet,TRUE,None,2
+PC,Need for Speed: Shift,TRUE,None,2
+PC,Need for Speed: Shift 2,TRUE,None,2
+PC,Need for Speed: The Run,FALSE,None,2
+PC,Need for Speed: Undercover,TRUE,None,2
+PC,Need for Speed: Underground,TRUE,None,2
+PC,Need for Speed: Underground 2,TRUE,None,2
+PC,OutRun 2006,FALSE,(that game is so fun),2
+PC,Peggle,TRUE,None,2
+PC,Peggle Nights,TRUE,None,2
+PC,Portal,TRUE,None,2
+PC,Portal 2,TRUE,(shoutout to Azatoth for the coop mode),2
+PC,Portal Stories: Mel,FALSE,None,2
+PC,PREY,FALSE,None,0
+PC,Prototype,FALSE,(not 100% because the events are tedious beyond all reason),0
+PC,Psychonauts,FALSE,None,0
+PC,PURE,FALSE,None,1
+PC,Quake,FALSE,None,1
+PC,Quake 2,FALSE,None,1
+PC,Quake 4,FALSE,None,1
+PC,Quake III,FALSE,None,1
+PC,Quantum Conundrum,TRUE,None,2
+PC,Race Driver GRID,TRUE,None,2
+PC,Radiator 2,TRUE,None,2
+PC,Rallisport Challenge,FALSE,None,1
+PC,Red Faction,FALSE,None,1
+PC,Red Faction 2,FALSE,None,1
+PC,Red Faction Guerrilla,TRUE,"(except MP, finished both on GFWL and Steam)",1
+PC,Red Faction: Armageddon,TRUE,None,1
+PC,Refunct,TRUE,None,1
+PC,Rexaura,FALSE,"(w/ all 3 cakes :B1:ê)",2
+PC,Ridge Racer Unbounded,TRUE,None,0
+PC,Scribblenauts Unlimited,TRUE,None,0
+PC,SEGA RALLY,FALSE,None,1
+PC,Serious Sam: The First Encounter Classic,FALSE,None,1
+PC,Serious Sam: The Second Encounter Classic,FALSE,None,1
+PC,Shadowgrounds,FALSE,None,1
+PC,Shadowgrounds Survivor,FALSE,None,1
+PC,Shatter,FALSE,None,1
+PC,Silent Hill 2,FALSE,None,2
+PC,SiN,FALSE,None,1
+PC,SiN Episodes : Emergence,FALSE,(tfw no sequel),1
+PC,Singularity,FALSE,None,2
+PC,Sleeping Dogs,TRUE,None,1
+PC,Sniper Elite,FALSE,None,1
+PC,Sniper: Ghost Warrior,TRUE,None,1
+PC,Sniper: Ghost Warrior 2,TRUE,(shoutout to Vore for the MP mode),1
+PC,Sonic and All-Stars Racing Transformed,TRUE,None,1
+PC,Sonic R,TRUE,None,2
+PC,Sonic The Hedgehog 4: Episode 1,FALSE,None,0
+PC,Sonic The Hedgehog 4: Episode 2,FALSE,None,0
+PC,Spec Ops: The Line,TRUE,None,2
+PC,Split/Second,TRUE,None,2
+PC,Stranglehold,FALSE,None,0
+PC,Street Racing Syndicate,FALSE,(not 100% because too tedious),1
+PC,Test Drive Ferrari Racing Legends,TRUE,None,1
+PC,Test Drive Unlimited,FALSE,None,2
+PC,Test Drive Unlimited 2,FALSE,None,2
+PC,The 39 Steps,FALSE,None,0
+PC,The Godfather,FALSE,None,1
+PC,Need for Speed,FALSE,None,2
+PC,Thirty Flights of Loving,FALSE,None,0
+PC,To The Moon,FALSE,(gold game),2
+PC,ToCA Race Driver 2,TRUE,None,2
+PC,Tom Clancy's Ghost Recon Advanced Warfighter,FALSE,None,1
+PC,Tom Clancy's Ghost Recon Advanced Warfighter 2,FALSE,None,1
+PC,Tom Clancy's H.A.W.X,TRUE,None,1
+PC,Tom Clancy's H.A.W.X 2,TRUE,None,1
+PC,Tom Clancy's Rainbow Six Vegas,FALSE,None,1
+PC,Tom Clancy's Rainbow Six Vegas 2,FALSE,None,1
+PC,Tomb Raider 3,FALSE,None,0
+PC,Tomb Raider: Anniversary,TRUE,None,1
+PC,Tomb Raider: Legend,TRUE,None,1
+PC,Tomb Raider: Underworld,TRUE,None,1
+PC,Total Immersion Racing,TRUE,None,2
+PC,Transmissions: Element 120,TRUE,None,1
+PC,Trine,FALSE,None,2
+PC,V8 Superstars,TRUE,None,0
+PC,V-Rally 3,TRUE,None,1
+PC,Watch_Dogs,TRUE,"(well apart from the online ""deathmatch"" but I'm going to pretend it doesn't exist)",1
+PC,World Racing 2,TRUE,None,2
+PC,WRC 2,TRUE,None,1
+PC,WRC 2010,TRUE,None,1
+PC,WRC 3,TRUE,None,1
+PC,Wild Animal Racing,TRUE,wew,2
+PC,Roadside Assistance Simulator,TRUE,None,1
+PC,WRC 4,TRUE,(shoutout to kylzemol for helping with the online mode),1
+PC,Sniper Elite V2,TRUE,(thanks Azatoth for the coop mode),1
+PC,Enforcer: Police Crime Action,TRUE,"(Chief of Police, luxury car, all weapons)",1
+PC,Viscera Cleanup Detail: Santa's Rampage,TRUE,(with Azatoth in coop),1
+PC,The First Templar,TRUE,(in coop with Popex),1
+PC,SkyDrift,TRUE,(thanks Azatoth and kylzemol for the online mode),0
+PC,The Crew,FALSE,(coop with ebloodmaker and binou),1
+PC,Forza Motorsport 6: Apex,TRUE,"(12 tours in platinum, Champion IV, ForzaHub 100%, not all the medals but they're pointless)",2
+Xbox 360,Forza Horizon,FALSE,"(on X1, looking for online partners)",2
+PC,Forza Horizon 3,FALSE,"(PC/X1, all showcases, all festival upgrades)",2
+PS1,007 The World Is Not Enough,FALSE,None,0
+PS1,Gran Turismo,TRUE,None,2
+PS1,Gran Turismo 2,TRUE,None,2
+PS1,V-Rally 2,FALSE,None,2
+PS2,Gran Turismo 3,TRUE,None,2
+PS2,Gran Turismo 4,TRUE,None,2
+PS2,Gran Turismo 4: Prologue,FALSE,None,2
+PS2,Medal of Honor: European Assault,FALSE,None,1
+PS2,Medal of Honor: Frontline,FALSE,(PCSX2),1
+PS2,Medal of Honor: Rising Sun,FALSE,None,1
+PS2,Tourist Trophy,FALSE,None,2
+PS2,WRC 3,FALSE,None,1
+PSP,Burnout Dominator,FALSE,None,1
+PSP,Dead of Alive Paradise,FALSE,(titties :B1:),0
+PSP,DiRT 2,TRUE,None,0
+PSP,F1 2009,FALSE,None,1
+PSP,Gran Turismo,TRUE,None,2
+PSP,Loco Roco,FALSE,None,0
+PSP,Loco Roco 2,FALSE,None,0
+PSP,Need for Speed: Most Wanted,TRUE,None,1
+PSP,Need for Speed: Underground Rivals,TRUE,None,1
+PSP,WRC,FALSE,None,1
+Android,Lifeline,TRUE,(best ending),0
+Android,Lifeline: Silent Night,TRUE,(best ending),0
+PC,Dead Effect,TRUE,(all collectibles and done in hard difficulty),0
+Android,Lifeline: Halfway to Infinity,TRUE,(best ending),0
+PC,Dead Effect 2,TRUE,,0
+PC,Ford Racing 3,TRUE,,1
+PC,KEK Story,TRUE,,0
+PC,Big Action Mega Fight,TRUE,,0
+PC,Approaching Blocks,TRUE,(with an IL hack to bypass the shit russian questions),0
+PC,Viscera Cleanup Detail,TRUE,(in coop with Azatoth),2
+PC,Breach & Clear,TRUE,,0
+PC,F1 2012,TRUE,(in coop with Kaguya/different chinese names),2
+PC,Monaco,TRUE,(in coop with Azatoth and Kinhera),1
+PC,F1 2011,FALSE,"(expert difficulty, looking for coop partner)",2

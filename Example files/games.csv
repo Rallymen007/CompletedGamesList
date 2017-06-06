@@ -1,4 +1,4 @@
-Platform,GameName,is100,Comm
-PC,Video Game HD,TRUE,None
-PS2,Video Game 2 : the sequel,FALSE,"(video game 1 is better)"
-SNES,Video Game 1,FALSE,"(some video game required)"
+Platform,GameName,is100,Comm,Priority
+PC,Video Game HD,TRUE,None,1
+PS2,Video Game 2 : the sequel,FALSE,"(video game 1 is better)",2
+SNES,Video Game 1,FALSE,"(some video game required)",3

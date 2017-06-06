@@ -1,0 +1,48 @@
+body{
+    background-color: aliceblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#header{
+    padding: 8px;
+}
+
+.percent{
+    height:18px;
+    width: 18px;
+    display: inline-block;
+    margin-left: 10px;
+    background-image:url(http://steamcommunity-a.akamaihd.net/economy/emoticon/100percent);
+}
+
+.comment{
+    display:inline-block;
+    margin-left: 10px;
+}
+
+.comment-resume{
+    display: inline-block;
+}
+
+.game:before{
+    content: "- ";
+}
+
+.platform{
+    padding: 20px;
+}
+
+.platform:before{
+    content: attr(id);
+    font-weight: bold;
+    font-size: large;
+}
+
+.b1{
+    height:18px;
+    width: 18px;
+    display: inline-block;
+    margin-left: 2px;
+    margin-right: 2px;
+    background-image:url(http://steamcommunity-a.akamaihd.net/economy/emoticon/B1);
+}

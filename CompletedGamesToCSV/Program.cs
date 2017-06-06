@@ -12,6 +12,7 @@ namespace CompletedGamesToCSV {
         public bool is100 { get; set; }
         public string Platform { get; set; }
         public string Comm { get; set; }
+        public string Priority { get; set; }
 
         public int CompareTo(CompletionData other) {
             if(Platform.CompareTo(other.Platform) == 0) {
@@ -22,7 +23,7 @@ namespace CompletedGamesToCSV {
         }
 
         public override string ToString() {
-            return Platform + "," + GameName + "," + is100 + "," + (Comm!=null ? Comm: "None");
+            return Platform + "," + GameName + "," + is100 + "," + (Comm!=null ? Comm: "None") + "," + Priority;
         }
 
         public CompletionData(string csvline) {
@@ -31,6 +32,7 @@ namespace CompletedGamesToCSV {
             GameName = w[1];
             is100 = bool.Parse(w[2]);
             Comm = w[3] == "None" ? String.Empty : w[3];
+            Priority = w[4];
         }
 
         public CompletionData() { }
@@ -52,7 +54,7 @@ namespace CompletedGamesToCSV {
                 }
             }*/
             var csv = new CsvReader(File.OpenText(filename));
-            foreach(var game in csv.GetRecords<CompletionData>()) {
+            foreach (var game in csv.GetRecords<CompletionData>()) {
                 if (!data.ContainsKey(game.Platform)) {
                     data[game.Platform] = new List<CompletionData>();
                 }
@@ -73,24 +75,51 @@ namespace CompletedGamesToCSV {
         void WriteDescription(Dictionary<string, List<CompletionData>> data, DescriptionFormat format, string destinationfile, string headerFile) {
             using (FileStream fs = File.Open(destinationfile + format.Ext, FileMode.Create)) {
                 using (StreamWriter sw = new StreamWriter(fs)) {
-                    sw.WriteLine(format.RenderFileHeader());
+                    string header = format.RenderFileHeader();
                     try {
                         using (FileStream headerStream = File.Open(headerFile, FileMode.Open)) {
                             using (StreamReader headerReader = new StreamReader(headerStream)) {
                                 while (!headerReader.EndOfStream)
-                                    sw.WriteLine(format.RenderHeaderLine(headerReader.ReadLine()));
+                                    header += format.RenderHeaderLine(headerReader.ReadLine());
                             }
                         }
                     } catch (Exception) {
                         Console.WriteLine("Header cannot be opened");
                     }
-                    sw.WriteLine(format.RenderFileHeaderEnd());
+                    header += format.RenderFileHeaderEnd();
+                    sw.WriteLine(header);
+                    
+                    int currentLength = header.Length;
 
-                    foreach (var plat in data) {
-                        sw.WriteLine(format.RenderPlatform(plat.Key));
-                        foreach (var game in plat.Value) {
-                            sw.WriteLine(format.RenderGame(game));
+                    Dictionary<string, string> platformSerializations = new Dictionary<string, string>();
+
+                    for (int i = 10; i >= 0; i--) {
+                        foreach (var plat in data) {
+                            string currentPlatformLevel = null;
+                            if (platformSerializations.ContainsKey(plat.Key)) {
+                                currentPlatformLevel = platformSerializations[plat.Key];
+                            } else {
+                                currentPlatformLevel = format.RenderPlatform(plat.Key) + "\r\n";
+                            }
+
+                            bool hasGames = false;
+                            int addedLength = 0;
+                            foreach (var game in plat.Value.Where(w => Int32.Parse(w.Priority) == i)) {
+                                hasGames = true;
+                                string addedString = format.RenderGame(game);
+                                addedLength += addedString.Length;
+                                currentPlatformLevel += addedString + "\r\n";
+                            }
+
+                            if (hasGames && currentLength + addedLength < format.MaxLength) {
+                                platformSerializations[plat.Key] = currentPlatformLevel;
+                                currentLength += currentPlatformLevel.Length;
+                            }
                         }
+                    }
+
+                    foreach(var serialization in platformSerializations.Values) {
+                        sw.WriteLine(serialization);
                         sw.WriteLine(format.RenderPlatformEnd());
                     }
 
@@ -98,6 +127,7 @@ namespace CompletedGamesToCSV {
                 }
             }
         }
+
     }
 
     /**
@@ -105,6 +135,7 @@ namespace CompletedGamesToCSV {
      **/
     abstract class DescriptionFormat {
         public string Ext { get; set; }
+        public int MaxLength { get; set; }
         public abstract string RenderPlatform(string platform);
         public abstract string RenderPlatformEnd();
         public abstract string RenderGame(CompletionData game);
@@ -122,6 +153,7 @@ namespace CompletedGamesToCSV {
     class TextDescriptionFormat : DescriptionFormat {
         public TextDescriptionFormat() {
             Ext = ".txt";
+            MaxLength = 7755;
         }
 
         public override string RenderFileEnd() {
@@ -159,6 +191,7 @@ namespace CompletedGamesToCSV {
     class HTMLDescriptionFormat : DescriptionFormat {
         public HTMLDescriptionFormat() {
             Ext = ".html";
+            MaxLength = 100000;
         }
 
         public override string RenderFileEnd() {
@@ -174,7 +207,7 @@ namespace CompletedGamesToCSV {
         }
 
         public override string RenderGame(CompletionData game) {
-            return "<div class=\"game\">" + game.GameName + (game.is100 ? "<div class=\"percent\"></div>" : String.Empty) + ((game.Comm != null && game.Comm != "None") ? "<div class=\"comment\">" + DecorateComment(game.Comm) + "</div>" : String.Empty) + "</div>";
+            return "<div class=\"game priority_"+ game.Priority + "\">" + game.GameName + (game.is100 ? "<div class=\"percent\"></div>" : String.Empty) + ((game.Comm != null && game.Comm != "None") ? "<div class=\"comment\">" + DecorateComment(game.Comm) + "</div>" : String.Empty) + "</div>";
         }
 
         public override string RenderHeaderLine(string line) {
