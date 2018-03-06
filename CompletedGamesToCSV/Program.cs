@@ -75,12 +75,15 @@ namespace CompletedGamesToCSV {
         void WriteDescription(Dictionary<string, List<CompletionData>> data, DescriptionFormat format, string destinationfile, string headerFile) {
             using (FileStream fs = File.Open(destinationfile + format.Ext, FileMode.Create)) {
                 using (StreamWriter sw = new StreamWriter(fs)) {
+                    int count = 0;
+                    foreach(var plat in data) { count += plat.Value.Count; }
+
                     string header = format.RenderFileHeader();
                     try {
                         using (FileStream headerStream = File.Open(headerFile, FileMode.Open)) {
                             using (StreamReader headerReader = new StreamReader(headerStream)) {
                                 while (!headerReader.EndOfStream)
-                                    header += format.RenderHeaderLine(headerReader.ReadLine());
+                                    header += format.RenderHeaderLine(headerReader.ReadLine(), count) + "\r\n";
                             }
                         }
                     } catch (Exception) {
@@ -142,7 +145,7 @@ namespace CompletedGamesToCSV {
         public abstract string RenderFileHeader();
         public abstract string RenderFileHeaderEnd();
         public abstract string RenderFileEnd();
-        public abstract string RenderHeaderLine(string line);
+        public abstract string RenderHeaderLine(string line, int data);
         public static DescriptionFormat TXT { get { return new TextDescriptionFormat(); } }
         public static DescriptionFormat HTML { get { return new HTMLDescriptionFormat(); } }
     }
@@ -169,11 +172,11 @@ namespace CompletedGamesToCSV {
         }
 
         public override string RenderGame(CompletionData game) {
-            return "-" + game.GameName + (game.is100 ? " :100percent:" : String.Empty) + " " + ((game.Comm != null && game.Comm != "None") ? game.Comm : String.Empty);
+            return "-" + game.GameName + (game.is100 ? "💯" : String.Empty) + " " + ((game.Comm != null && game.Comm != "None") ? game.Comm : String.Empty);
         }
 
-        public override string RenderHeaderLine(string line) {
-            return line;
+        public override string RenderHeaderLine(string line, int count) {
+            return line.Replace("%count%", count.ToString()).Replace("%date%", DateTime.Now.ToString());
         }
 
         public override string RenderPlatform(string platform) {
@@ -210,8 +213,8 @@ namespace CompletedGamesToCSV {
             return "<div class=\"game priority_"+ game.Priority + "\">" + game.GameName + (game.is100 ? "<div class=\"percent\"></div>" : String.Empty) + ((game.Comm != null && game.Comm != "None") ? "<div class=\"comment\">" + DecorateComment(game.Comm) + "</div>" : String.Empty) + "</div>";
         }
 
-        public override string RenderHeaderLine(string line) {
-            return line + "<br/>";
+        public override string RenderHeaderLine(string line, int count) {
+            return line.Replace("%count%", count.ToString()).Replace("%date%", DateTime.Now.ToString()) + "<br/>";
         }
 
         public override string RenderPlatform(string platform) {

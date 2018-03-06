@@ -1,4 +1,2 @@
-You can check out the backup of my Xfire (RIP sweet prince) screenshot gallery over here: http://rallymen007.polybotes.feralhosting.com/Xfire/ 
-
-This list is made using https://github.com/Rallymen007/CompletedGamesList 
-Also, please Valve increase the character cap because I'M TOO FUCKING GOOD FOR THIS
+List generation tool and full list in profile description ^^
+Total games: %count%   Last Update: %date%

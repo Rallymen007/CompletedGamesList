@@ -1,1 +1,2 @@
 This description was generated using: https://github.com/Rallymen007/CompletedGamesList
+Count: %count%  Last update: %date%
