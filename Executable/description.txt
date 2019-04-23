@@ -1,15 +1,29 @@
 List generation tool and full list in profile description ^^
-Total games: 304   Last Update: 06/03/2018 11:12:35
+Total games: 343   Last Update: 23/04/2019 09:42:57
 
 [b]PC[/b]
+-🆕Arctic Adventures Episodes💯 
+-🆕Crash Wheels💯 
+-🆕Drizzlepath:Genie💯 
+-🆕Forza Horizon 4💯 1000G
+-🆕Forza Horizon 4: Fortnite Island💯 250G
+-🆕Garfield Kart💯 
+-🆕Need for Spirit: Drink and Drive Simulator 
+-🆕Precision Sniping: Competitive 
+-🆕Prospekt 
+-🆕rFactor 2💯 
+-🆕The Crew 2 
+-🆕XL-1 Clipping Point All licenses, races don't save
 -Wallpaper Engine💯 
+-Forza Horizon 3💯 (2500G)
+-Ace of Spades💯 (shoutout to aza, vore and mat)
 -Bitardia💯 
 -Clandestine💯 (entirely in coop with Azatoth)
+-CMR04💯 
+-CMR2 
+-CMR2005💯 
+-CMR3💯 
 -Colin McRae Rally 
--Colin McRae Rally 04💯 
--Colin McRae Rally 2 
--Colin McRae Rally 2005💯 
--Colin McRae Rally 3💯 
 -Counter-Strike Condition Zero Deleted Scenes 
 -DeadCore💯 
 -DiRT💯 
@@ -19,12 +33,11 @@ Total games: 304   Last Update: 06/03/2018 11:12:35
 -Driver Parallel Lines💯 
 -Driver San Francisco💯 
 -F1 2010💯 
--F1 2011 (expert difficulty, looking for coop partner)
--F1 2012💯 (in coop with Kaguya/different chinese names)
--F1 2013💯 (legend AI, no assists, coop done)
+-F1 2011 (looking for coop partner)
+-F1 2012💯 (coop w Kaguya)
+-F1 2013💯 
 -FBI Hostage Rescue 
--Forza Horizon 3 (PC/X1, all showcases, all festival upgrades)
--Forza Motorsport 6: Apex💯 (12 tours in platinum, Champion IV, ForzaHub 100%, not all the medals but they're pointless)
+-Forza Motorsport 6: Apex💯 (plat medals)
 -FUEL💯 
 -GRID 2💯 
 -GTA III💯 
@@ -50,23 +63,23 @@ Total games: 304   Last Update: 06/03/2018 11:12:35
 -Mercedes-Benz World Racing💯 
 -Mining and Tunneling Simulator 
 -Mirror's Edge💯 
--Need for Speed 
--Need for Speed 4: High Stakes 
--Need for Speed II 
--Need for Speed III: Hot Pursuit 
--Need for Speed: Carbon💯 
--Need for Speed: Hot Pursuit 2💯 
--Need for Speed: Hot Pursuit 2010💯 
--Need for Speed: Most Wanted💯 
--Need for Speed: Most Wanted 2012💯 (except the grindy as all hell online mode)
--Need for Speed: Porsche 2000 
--Need for Speed: ProStreet💯 
--Need for Speed: Shift💯 
--Need for Speed: Shift 2💯 
--Need for Speed: The Run 
--Need for Speed: Undercover💯 
--Need for Speed: Underground💯 
--Need for Speed: Underground 2💯 
+-NFS 
+-NFS 4: High Stakes 
+-NFS II 
+-NFS III: Hot Pursuit 
+-NFS: Carbon💯 
+-NFS: Hot Pursuit 2💯 
+-NFS: Hot Pursuit 2010💯 
+-NFS: Most Wanted💯 
+-NFS: Most Wanted 2012💯 (except the grindy as all hell online mode)
+-NFS: Porsche 2000 
+-NFS: ProStreet💯 
+-NFS: Shift💯 
+-NFS: Shift 2💯 
+-NFS: The Run 
+-NFS: Undercover💯 
+-NFS: Underground💯 
+-NFS: Underground 2💯 
 -OutRun 2006 (that game is so fun)
 -Peggle💯 
 -Peggle Nights💯 
@@ -89,127 +102,57 @@ Total games: 304   Last Update: 06/03/2018 11:12:35
 -ToCA Race Driver 2💯 
 -Total Immersion Racing💯 
 -Trine 
--Viscera Cleanup Detail💯 (in coop with Azatoth)
+-Viscera Cleanup Detail💯 (coop w Azatoth)
 -Wild Animal Racing💯 wew
 -World Racing 2💯 
--Alone In The Dark💯 
--Binary Domain💯 (except dead MP mode)
--BioShock 
--BioShock 2 
--BioShock Infinite💯 
--Blur 
--Borderlands💯 (coop with Azatoth, Popex and Mateos)
--Call of Duty 
--Call of Duty 2 
--Call of Duty 4: Modern Warfare 
--Call of Duty: Black Ops 
--Call of Duty: Black Ops II 
--Call of Duty: Black Ops III (campaign in coop with Azatoth)
--Call of Duty: Modern Warfare 2 
--Call of Duty: Modern Warfare 3 
--Call of Duty: World at War 
--Condemned: Criminals Origins 
--Crash Time II💯 
--Crash Time III💯 
--Cryostasis 
--Crysis 
--Crysis 2 
--Crysis 3 
--Crysis Warhead 
--Duke Nukem 3D 
--Duke Nukem Forever 
--Enforcer: Police Crime Action💯 (Chief of Police, luxury car, all weapons)
--Event[0]💯 
--F.E.A.R 
--F.E.A.R 2 
--F.E.A.R Extraction Point 
--F.E.A.R Perseus Mandate 
--Fallout 3💯 
--Far Cry 2💯 
--FarCry 
--Fireburst💯 
--FlatOut💯 
--FlatOut 2💯 
--FlatOut: Ultimate Carnage💯 
--Ford Racing 3💯 
--Foreign Legion: Buckets of Blood💯 
--Juiced 
--Juiced 2 
--Manhunt 
--Manhunt 2 
--Medal of Honor: Airborne💯 
--Medal of Honor: Pacific Assault 
--Metal Gear Solid 
--Monaco💯 (in coop with Azatoth and Kinhera)
--Nail'd💯 
--NaissanceE 
--PURE 
--Quake 
--Quake 2 
--Quake 4 
--Quake III 
--Rallisport Challenge 
--Red Faction 
--Red Faction 2 
--Red Faction Guerrilla💯 (except MP, finished both on GFWL and Steam)
--Red Faction: Armageddon💯 
--Refunct💯 
--Roadside Assistance Simulator💯 
--SEGA RALLY 
--Serious Sam: The First Encounter Classic 
--Serious Sam: The Second Encounter Classic 
--Shadowgrounds 
--Shadowgrounds Survivor 
--Shatter 
--SiN 
--SiN Episodes : Emergence (tfw no sequel)
--Sleeping Dogs💯 
--Sniper Elite 
--Sniper Elite V2💯 (thanks Azatoth for the coop mode)
--Sniper: Ghost Warrior💯 
--Sniper: Ghost Warrior 2💯 (shoutout to Vore for the MP mode)
--Sonic and All-Stars Racing Transformed💯 
--Street Racing Syndicate (not 100% because too tedious)
--Test Drive Ferrari Racing Legends💯 
--The Crew (coop with ebloodmaker and binou)
--The First Templar💯 (in coop with Popex)
--The Godfather 
--The Turing Test💯 
--Tom Clancy's Ghost Recon Advanced Warfighter 
--Tom Clancy's Ghost Recon Advanced Warfighter 2 
--Tom Clancy's H.A.W.X💯 
--Tom Clancy's H.A.W.X 2💯 
--Tom Clancy's Rainbow Six Vegas 
--Tom Clancy's Rainbow Six Vegas 2 
--Tomb Raider: Anniversary💯 
--Tomb Raider: Legend💯 
--Tomb Raider: Underworld💯 
--Transmissions: Element 120💯 
--Viscera Cleanup Detail: Santa's Rampage💯 (with Azatoth in coop)
--Volume💯 
--V-Rally 3💯 
--Watch_Dogs💯 (well apart from the online "deathmatch" but I'm going to pretend it doesn't exist)
--WRC 2💯 
--WRC 2010💯 
--WRC 3💯 
--WRC 4💯 (shoutout to kylzemol for helping with the online mode)
+
+
+[b]PS2[/b]
+-🆕WRC💯 
+-Gran Turismo 3💯 
+-Gran Turismo 4💯 
+-Gran Turismo 4: Prologue 
+-Tourist Trophy 
+-Medal of Honor: European Assault 
+-Medal of Honor: Frontline (PCSX2)
+-Medal of Honor: Rising Sun 
+-WRC 3 
 
 
 [b]PS3[/b]
+-🆕Minecraft💯 all trophies
 -Burnout Paradise💯 Plat, BSI completed
--Gran Turismo 5💯 100% gold, missing online trophies
--Gran Turismo 5:Prologue💯 (gold events, gold manufacturer races)
--Gran Turismo 6💯 100% gold, platinum
+-Gran Turismo 5💯 (100% gold, missing online trophies)
+-Gran Turismo 5:Prologue💯 (100% gold)
+-Gran Turismo 6💯 (100% gold, platinum)
 -Medal of Honor: Frontline💯 Plat
 
 
+[b]Xbox One[/b]
+-🆕Forza Horizon 2 (missing one coop ach)
+-Forza Horizon 2 Presents The Fast And The Furious💯 100%
+-Gone Home💯 
+
+
 [b]Xbox[/b]
+-🆕Forza Motorsport💯 
+-🆕Halo 
+-🆕Halo 2 
+-🆕Rallisport Challenge 2💯 
 -Half-Life 2 
 -007: Agent Under Fire 
+-007: Nightfire 
 -Black (Xbox One BC)
--Freedom Fighters Underrated af
+-Call of Duty 2: Big Red One 
+-Freedom Fighters (Underrated af)
 -Hello Kitty Roller Rescue 
+-R Racing Evolution 
+-Test Drive Eve of Destruction 
 -Wreckless💯 
+-007: From Russia With Love 
+-Area 51 
+-Automodellista 
+-Burnout 3 
 -Chase 
 -Constantine 
 -Double S.T.E.A.L 
@@ -217,31 +160,51 @@ Total games: 304   Last Update: 06/03/2018 11:12:35
 -Group S Challenge💯 
 -kill.switch 
 -Leisure Suit Larry Magna Cum Laude💯 
-
-
-[b]Xbox One[/b]
--Forza Horizon 2 Presents The Fast And The Furious💯 100%
+-Midtown Madness 3💯 
+-The Simpsons Hit and Run 
+-Timesplitters 2 
+-Total Overdose 
+-Urban Chaos: Riot Response 
+-50 Cent: Bulletproof 
+-Crash n Burn💯 
+-Dakar 2 
+-F1 2001 
+-Goldeneye Rogue Agent 
+-Lotus Challenge💯 
+-Quantum Redshift 
+-Racing Evoluzione 
+-Rally Fusion Race Of Champions💯 
+-Test Drive Overdrive 
 
 
 [b]Xbox 360[/b]
--Forza Horizon (on X1, looking for online partners)
+-Forza Horizon (looking for coop partners)
 
 
 [b]PS1[/b]
 -Gran Turismo💯 
 -Gran Turismo 2💯 
 -V-Rally 2 
-
-
-[b]PS2[/b]
--Gran Turismo 3💯 
--Gran Turismo 4💯 
--Gran Turismo 4: Prologue 
--Tourist Trophy 
+-007 The World Is Not Enough 
 
 
 [b]PSP[/b]
 -Gran Turismo💯 
+-Burnout Dominator 
+-F1 2009 
+-NFS: Most Wanted💯 
+-NFS: Underground Rivals💯 
+-WRC 
+-Dead of Alive Paradise (titties :B1:)
+-DiRT 2💯 
+-Loco Roco 
+-Loco Roco 2 
+
+
+[b]Android[/b]
+-Lifeline💯 (best ending)
+-Lifeline: Halfway to Infinity💯 (best ending)
+-Lifeline: Silent Night💯 (best ending)
 
 
 

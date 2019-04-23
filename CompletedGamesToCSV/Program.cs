@@ -4,15 +4,18 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace CompletedGamesToCSV {
     class CompletionData : IComparable<CompletionData> {
+        public string Platform { get; set; }
         public string GameName { get; set; }
         public bool is100 { get; set; }
-        public string Platform { get; set; }
         public string Comm { get; set; }
         public string Priority { get; set; }
+        [NonSerialized]
+        public bool isNew = false;
 
         public int CompareTo(CompletionData other) {
             if(Platform.CompareTo(other.Platform) == 0) {
@@ -23,7 +26,7 @@ namespace CompletedGamesToCSV {
         }
 
         public override string ToString() {
-            return Platform + "," + GameName + "," + is100 + "," + (Comm!=null ? Comm: "None") + "," + Priority;
+            return Platform + "," + GameName + "," + is100 + "," + (Comm != null ? Comm : "None") + "," + Priority + ",";
         }
 
         public CompletionData(string csvline) {
@@ -54,12 +57,19 @@ namespace CompletedGamesToCSV {
                 }
             }*/
             var csv = new CsvReader(File.OpenText(filename));
-            foreach (var game in csv.GetRecords<CompletionData>()) {
+            List<CompletionData> games = csv.GetRecords<CompletionData>().ToList();
+            foreach (var game in games) {
+                if (game.Platform.StartsWith("!")) {
+                    game.Platform = game.Platform.Substring(1);
+                    game.isNew = true;
+                    game.Priority = "10";
+                }
                 if (!data.ContainsKey(game.Platform)) {
                     data[game.Platform] = new List<CompletionData>();
                 }
                 data[game.Platform].Add(game);
             }
+            csv.Dispose();
 
             foreach (var x in data) {
                 x.Value.Sort();
@@ -70,6 +80,10 @@ namespace CompletedGamesToCSV {
 
             // Write description HTML
             WriteDescription(data, DescriptionFormat.HTML, destinationFile, headerFile);
+
+            var csvwr = new CsvWriter(File.CreateText(filename), new CsvHelper.Configuration.CsvConfiguration() { QuoteAllFields=true });
+            csvwr.WriteRecords(games);
+            csvwr.Dispose();
         }
 
         void WriteDescription(Dictionary<string, List<CompletionData>> data, DescriptionFormat format, string destinationfile, string headerFile) {
@@ -172,7 +186,7 @@ namespace CompletedGamesToCSV {
         }
 
         public override string RenderGame(CompletionData game) {
-            return "-" + game.GameName + (game.is100 ? "💯" : String.Empty) + " " + ((game.Comm != null && game.Comm != "None") ? game.Comm : String.Empty);
+            return "-" + (game.isNew? "🆕": string.Empty) + game.GameName + (game.is100 ? "💯" : String.Empty) + " " + ((game.Comm != null && game.Comm != "None") ? game.Comm : String.Empty);
         }
 
         public override string RenderHeaderLine(string line, int count) {
