@@ -1,22 +1,30 @@
-List generation tool and full list in profile description ^^
-Total games: 343   Last Update: 23/04/2019 09:42:57
+List generation tool and full list in profile description ^
+Total games: 356   Last Update: 28/07/2019 17:36:01
+
+New:
+PC:-🆕WRC 5💯 
+PS2:-🆕WRC 2 
+PS2:-🆕WRC 2005💯 
+PS2:-🆕WRC 3 
+PS2:-🆕WRC 4 
+
 
 [b]PC[/b]
--🆕Arctic Adventures Episodes💯 
--🆕Crash Wheels💯 
--🆕Drizzlepath:Genie💯 
--🆕Forza Horizon 4💯 1000G
--🆕Forza Horizon 4: Fortnite Island💯 250G
--🆕Garfield Kart💯 
--🆕Need for Spirit: Drink and Drive Simulator 
--🆕Precision Sniping: Competitive 
--🆕Prospekt 
--🆕rFactor 2💯 
--🆕The Crew 2 
--🆕XL-1 Clipping Point All licenses, races don't save
+-Danger Zone💯 
 -Wallpaper Engine💯 
+-Borderlands 2💯 
+-Borderlands GOTY Enhanced💯 (thx Vore & Mat)
+-Borderlands: The Pre Sequel💯 
 -Forza Horizon 3💯 (2500G)
+-Forza Horizon 4💯 1000G
+-Forza Horizon 4: Fortnite Island💯 250G
+-Garfield Kart💯 
+-Left 4 Dead💯 (thx Vore)
+-Left 4 Dead 2💯 (thx Vore)
+-The Crew 2 
+-🆕WRC 5💯 
 -Ace of Spades💯 (shoutout to aza, vore and mat)
+-Arctic Adventures Episodes💯 
 -Bitardia💯 
 -Clandestine💯 (entirely in coop with Azatoth)
 -CMR04💯 
@@ -30,6 +38,7 @@ Total games: 343   Last Update: 23/04/2019 09:42:57
 -DiRT 2💯 
 -DiRT 3💯 
 -DiRT Showdown💯 
+-Dispatcher💯 
 -Driver Parallel Lines💯 
 -Driver San Francisco💯 
 -F1 2010💯 
@@ -91,6 +100,7 @@ Total games: 343   Last Update: 23/04/2019 09:42:57
 -Radiator 2💯 
 -Rexaura (w/ all 3 cakes :B1:�)
 -rFactor💯 all achievements lol
+-rFactor 2💯 
 -Silent Hill 2 
 -Singularity 
 -Sonic R💯 
@@ -105,45 +115,133 @@ Total games: 343   Last Update: 23/04/2019 09:42:57
 -Viscera Cleanup Detail💯 (coop w Azatoth)
 -Wild Animal Racing💯 wew
 -World Racing 2💯 
-
-
-[b]PS2[/b]
--🆕WRC💯 
--Gran Turismo 3💯 
--Gran Turismo 4💯 
--Gran Turismo 4: Prologue 
--Tourist Trophy 
--Medal of Honor: European Assault 
--Medal of Honor: Frontline (PCSX2)
--Medal of Honor: Rising Sun 
--WRC 3 
+-XL-1 Clipping Point All licenses, races don't save
+-Alone In The Dark💯 
+-Aperture Tag 
+-Binary Domain💯 (except dead MP mode)
+-BioShock 
+-BioShock 2 
+-BioShock Infinite💯 
+-Blur 
+-Borderlands💯 (coop with Azatoth, Popex and Mateos)
+-CoD 
+-CoD 2 
+-CoD 4: Modern Warfare 
+-CoD: Black Ops 
+-CoD: Black Ops II 
+-CoD: Black Ops III (campaign in coop with Azatoth)
+-CoD: Modern Warfare 2 
+-CoD: Modern Warfare 3 
+-CoD: World at War 
+-Condemned: Criminals Origins 
+-Crash Time II💯 
+-Crash Time III💯 
+-Crash Wheels💯 
+-Cryostasis 
+-Crysis 
+-Crysis 2 
+-Crysis 3 
+-Crysis Warhead 
+-Drizzlepath:Genie💯 
+-Duke Nukem 3D 
+-Duke Nukem Forever 
+-Enforcer: Police Crime Action💯 (Chief of Police, luxury car, all weapons)
+-Event[0]💯 
+-F.E.A.R 
+-F.E.A.R 2 
+-F.E.A.R Extraction Point 
+-F.E.A.R Perseus Mandate 
+-Fallout 3💯 
+-Far Cry 2💯 
+-FarCry 
+-Fireburst💯 
+-FlatOut💯 
+-FlatOut 2💯 
+-FlatOut: Ultimate Carnage💯 
+-Ford Racing 3💯 
+-Foreign Legion: Buckets of Blood💯 
+-Juiced 
+-Juiced 2 
+-Manhunt 
+-Manhunt 2 
+-Medal of Honor: Airborne💯 
+-Medal of Honor: Pacific Assault 
+-Metal Gear Solid 
+-Monaco💯 (coop w Azatoth & Kinhera)
+-Nail'd💯 
+-NaissanceE 
+-Need for Spirit: Drink and Drive Simulator 
+-Precision Sniping: Competitive 
+-Prospekt 
+-PURE 
+-Quake 
+-Quake 2 
+-Quake 4 
+-Quake III 
+-Rallisport Challenge 
+-Red Faction 
+-Red Faction 2 
+-Red Faction Guerrilla💯 (except MP, finished both on GFWL and Steam)
+-Red Faction: Armageddon💯 
+-Refunct💯 
+-Roadside Assistance Simulator💯 
+-Scanner Sombre 
+-SEGA RALLY 
+-Serious Sam: The First Encounter Classic 
+-Serious Sam: The Second Encounter Classic 
+-Shadowgrounds 
+-Shadowgrounds Survivor 
+-Shatter 
+-SiN 
+-SiN Episodes : Emergence (tfw no sequel)
+-Sleeping Dogs💯 
+-Sniper Elite 
+-Sniper Elite V2💯 (thanks Azatoth for the coop mode)
+-Sniper: Ghost Warrior💯 
+-Sniper: Ghost Warrior 2💯 (mp with Vore)
+-Sonic and All-Stars Racing Transformed💯 
+-Street Racing Syndicate (not 100% because too tedious)
+-Test Drive Ferrari Racing Legends💯 
+-The Crew (coop w ebloodmaker and binou)
+-The First Templar💯 (in coop with Popex)
+-The Godfather 
+-The Turing Test💯 
+-Tom Clancy's Ghost Recon Advanced Warfighter 
+-Tom Clancy's Ghost Recon Advanced Warfighter 2 
+-Tom Clancy's H.A.W.X💯 
+-Tom Clancy's H.A.W.X 2💯 
+-Tom Clancy's Rainbow Six Vegas 
+-Tom Clancy's Rainbow Six Vegas 2 
+-Tomb Raider: Anniversary💯 
+-Tomb Raider: Legend💯 
+-Tomb Raider: Underworld💯 
+-Transmissions: Element 120💯 
+-Viscera Cleanup Detail: Santa's Rampage💯 (coop w Azatoth)
+-Volume💯 
+-V-Rally 3💯 
+-Watch_Dogs💯 (except dead online)
+-WRC 2💯 
+-WRC 2010💯 
+-WRC 3💯 
+-WRC 4💯 (shoutout to kylzemol for helping with the online mode)
 
 
 [b]PS3[/b]
--🆕Minecraft💯 all trophies
 -Burnout Paradise💯 Plat, BSI completed
+-Minecraft💯 all trophies
 -Gran Turismo 5💯 (100% gold, missing online trophies)
 -Gran Turismo 5:Prologue💯 (100% gold)
 -Gran Turismo 6💯 (100% gold, platinum)
 -Medal of Honor: Frontline💯 Plat
 
 
-[b]Xbox One[/b]
--🆕Forza Horizon 2 (missing one coop ach)
--Forza Horizon 2 Presents The Fast And The Furious💯 100%
--Gone Home💯 
-
-
 [b]Xbox[/b]
--🆕Forza Motorsport💯 
--🆕Halo 
--🆕Halo 2 
--🆕Rallisport Challenge 2💯 
 -Half-Life 2 
 -007: Agent Under Fire 
 -007: Nightfire 
 -Black (Xbox One BC)
 -Call of Duty 2: Big Red One 
+-Forza Motorsport💯 
 -Freedom Fighters (Underrated af)
 -Hello Kitty Roller Rescue 
 -R Racing Evolution 
@@ -158,23 +256,33 @@ Total games: 343   Last Update: 23/04/2019 09:42:57
 -Double S.T.E.A.L 
 -F1 Career Challenge 
 -Group S Challenge💯 
+-Halo 
+-Halo 2 
 -kill.switch 
 -Leisure Suit Larry Magna Cum Laude💯 
 -Midtown Madness 3💯 
+-Rallisport Challenge 2💯 
 -The Simpsons Hit and Run 
 -Timesplitters 2 
 -Total Overdose 
 -Urban Chaos: Riot Response 
--50 Cent: Bulletproof 
--Crash n Burn💯 
--Dakar 2 
--F1 2001 
--Goldeneye Rogue Agent 
--Lotus Challenge💯 
--Quantum Redshift 
--Racing Evoluzione 
--Rally Fusion Race Of Champions💯 
--Test Drive Overdrive 
+
+
+[b]PS2[/b]
+-WRC💯 
+-🆕WRC 2 
+-🆕WRC 2005💯 
+-🆕WRC 3 
+-🆕WRC 4 
+-Gran Turismo 3💯 
+-Gran Turismo 4💯 
+-Gran Turismo 4: Prologue 
+-Tourist Trophy 
+
+
+[b]Xbox One[/b]
+-Forza Horizon 2 (missing one coop ach)
+-Forza Horizon 2 Presents The Fast And The Furious💯 100%
 
 
 [b]Xbox 360[/b]
@@ -185,26 +293,10 @@ Total games: 343   Last Update: 23/04/2019 09:42:57
 -Gran Turismo💯 
 -Gran Turismo 2💯 
 -V-Rally 2 
--007 The World Is Not Enough 
 
 
 [b]PSP[/b]
 -Gran Turismo💯 
--Burnout Dominator 
--F1 2009 
--NFS: Most Wanted💯 
--NFS: Underground Rivals💯 
--WRC 
--Dead of Alive Paradise (titties :B1:)
--DiRT 2💯 
--Loco Roco 
--Loco Roco 2 
-
-
-[b]Android[/b]
--Lifeline💯 (best ending)
--Lifeline: Halfway to Infinity💯 (best ending)
--Lifeline: Silent Night💯 (best ending)
 
 
 

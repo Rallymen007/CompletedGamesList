@@ -110,25 +110,26 @@ namespace CompletedGamesToCSV {
                     Dictionary<string, string> platformSerializations = new Dictionary<string, string>();
 
                     // do new games
+                    string newGamesPlatform = "New:";
                     foreach (var plat in data) {
                         string currentPlatformLevel = null;
-                        if (platformSerializations.ContainsKey(plat.Key)) {
-                            currentPlatformLevel = platformSerializations[plat.Key];
+                        if (platformSerializations.ContainsKey(newGamesPlatform)) {
+                            currentPlatformLevel = platformSerializations[newGamesPlatform];
                         } else {
-                            currentPlatformLevel = format.RenderPlatform(plat.Key) + "\r\n";
+                            currentPlatformLevel = "New:\r\n";
                         }
 
                         bool hasGames = false;
                         int addedLength = 0;
                         foreach (var game in plat.Value.Where(w => w.isNew)) {
                             hasGames = true;
-                            string addedString = format.RenderGame(game);
+                            string addedString = plat.Key + ":" + format.RenderGame(game);
                             addedLength += addedString.Length;
                             currentPlatformLevel += addedString + "\r\n";
                         }
 
                         if (hasGames && currentLength + addedLength < format.MaxLength) {
-                            platformSerializations[plat.Key] = currentPlatformLevel;
+                            platformSerializations[newGamesPlatform] = currentPlatformLevel; 
                             currentLength += currentPlatformLevel.Length;
                         }
                     }

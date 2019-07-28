@@ -1,2 +1,2 @@
-List generation tool and full list in profile description ^^
+List generation tool and full list in profile description ^
 Total games: %count%   Last Update: %date%
