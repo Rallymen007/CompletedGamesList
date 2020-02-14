@@ -194,7 +194,7 @@ namespace CompletedGamesToCSV {
     class TextDescriptionFormat : DescriptionFormat {
         public TextDescriptionFormat() {
             Ext = ".txt";
-            MaxLength = 7755;
+            MaxLength = 8192;
         }
 
         public override string RenderFileEnd() {

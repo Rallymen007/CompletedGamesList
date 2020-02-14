@@ -1,31 +1,26 @@
 List generation tool and full list in profile description ^
-Total games: 356   Last Update: 28/07/2019 17:36:01
-
-New:
-PC:-🆕WRC 5💯 
-PS2:-🆕WRC 2 
-PS2:-🆕WRC 2005💯 
-PS2:-🆕WRC 3 
-PS2:-🆕WRC 4 
-
+Total games: 389   Last Update: 14/02/2020 13:54:28
 
 [b]PC[/b]
--Danger Zone💯 
 -Wallpaper Engine💯 
 -Borderlands 2💯 
+-Borderlands 3💯 
 -Borderlands GOTY Enhanced💯 (thx Vore & Mat)
--Borderlands: The Pre Sequel💯 
+-Danger Zone💯 
+-Euro Truck Simulator 2💯 
 -Forza Horizon 3💯 (2500G)
 -Forza Horizon 4💯 1000G
 -Forza Horizon 4: Fortnite Island💯 250G
 -Garfield Kart💯 
 -Left 4 Dead💯 (thx Vore)
--Left 4 Dead 2💯 (thx Vore)
+-NFS (2015)💯 
+-NFS: Heat💯 
 -The Crew 2 
--🆕WRC 5💯 
+-WRC 8 
 -Ace of Spades💯 (shoutout to aza, vore and mat)
 -Arctic Adventures Episodes💯 
 -Bitardia💯 
+-Borderlands: The Pre Sequel💯 
 -Clandestine💯 (entirely in coop with Azatoth)
 -CMR04💯 
 -CMR2 
@@ -34,11 +29,11 @@ PS2:-🆕WRC 4
 -Colin McRae Rally 
 -Counter-Strike Condition Zero Deleted Scenes 
 -DeadCore💯 
+-Destiny 2 
 -DiRT💯 
 -DiRT 2💯 
 -DiRT 3💯 
 -DiRT Showdown💯 
--Dispatcher💯 
 -Driver Parallel Lines💯 
 -Driver San Francisco💯 
 -F1 2010💯 
@@ -48,6 +43,8 @@ PS2:-🆕WRC 4
 -FBI Hostage Rescue 
 -Forza Motorsport 6: Apex💯 (plat medals)
 -FUEL💯 
+-Game Dev Tycoon💯 
+-GRID💯 
 -GRID 2💯 
 -GTA III💯 
 -GTA IV💯 
@@ -66,13 +63,13 @@ PS2:-🆕WRC 4
 -James Bond 007 Nightfire 
 -Just Cause 2💯 (that was fucking long)
 -Lara Croft and the Guardian of Light💯 (and I'm proud of that one - shoutout to Popex :B1:)
+-Left 4 Dead 2💯 (thx Vore)
 -Max Payne 
 -Max Payne 2 
 -Max Payne 3 
 -Mercedes-Benz World Racing💯 
 -Mining and Tunneling Simulator 
 -Mirror's Edge💯 
--NFS 
 -NFS 4: High Stakes 
 -NFS II 
 -NFS III: Hot Pursuit 
@@ -96,11 +93,12 @@ PS2:-🆕WRC 4
 -Portal 2💯 (shoutout to Azatoth for the coop mode)
 -Portal Stories: Mel 
 -Quantum Conundrum💯 
--Race Driver GRID💯 
+-Race Driver GRID (2008)💯 
 -Radiator 2💯 
 -Rexaura (w/ all 3 cakes :B1:�)
 -rFactor💯 all achievements lol
 -rFactor 2💯 
+-Sébastien Loeb Rally Evo💯 
 -Silent Hill 2 
 -Singularity 
 -Sonic R💯 
@@ -115,6 +113,9 @@ PS2:-🆕WRC 4
 -Viscera Cleanup Detail💯 (coop w Azatoth)
 -Wild Animal Racing💯 wew
 -World Racing 2💯 
+-WRC 5💯 
+-WRC 6💯 
+-WRC 7💯 
 -XL-1 Clipping Point All licenses, races don't save
 -Alone In The Dark💯 
 -Aperture Tag 
@@ -124,6 +125,7 @@ PS2:-🆕WRC 4
 -BioShock Infinite💯 
 -Blur 
 -Borderlands💯 (coop with Azatoth, Popex and Mateos)
+-Cart Racer💯 
 -CoD 
 -CoD 2 
 -CoD 4: Modern Warfare 
@@ -142,10 +144,12 @@ PS2:-🆕WRC 4
 -Crysis 2 
 -Crysis 3 
 -Crysis Warhead 
+-Dispatcher💯 
 -Drizzlepath:Genie💯 
 -Duke Nukem 3D 
 -Duke Nukem Forever 
 -Enforcer: Police Crime Action💯 (Chief of Police, luxury car, all weapons)
+-Entropy: Zero💯 
 -Event[0]💯 
 -F.E.A.R 
 -F.E.A.R 2 
@@ -160,8 +164,16 @@ PS2:-🆕WRC 4
 -FlatOut: Ultimate Carnage💯 
 -Ford Racing 3💯 
 -Foreign Legion: Buckets of Blood💯 
+-Hentai Ahegao💯 
+-Hentai Area 51💯 
+-Hentai Arena💯 
+-Hentai Idol💯 
+-Hentai Loli 3D💯 
+-Hentai Nazi💯 
+-HL2: Year Long Alarm 
 -Juiced 
 -Juiced 2 
+-Kill the Hentai💯 
 -Manhunt 
 -Manhunt 2 
 -Medal of Honor: Airborne💯 
@@ -185,6 +197,7 @@ PS2:-🆕WRC 4
 -Red Faction: Armageddon💯 
 -Refunct💯 
 -Roadside Assistance Simulator💯 
+-Scania Truck Driving Simulator💯 
 -Scanner Sombre 
 -SEGA RALLY 
 -Serious Sam: The First Encounter Classic 
@@ -200,6 +213,7 @@ PS2:-🆕WRC 4
 -Sniper: Ghost Warrior💯 
 -Sniper: Ghost Warrior 2💯 (mp with Vore)
 -Sonic and All-Stars Racing Transformed💯 
+-Steep💯 
 -Street Racing Syndicate (not 100% because too tedious)
 -Test Drive Ferrari Racing Legends💯 
 -The Crew (coop w ebloodmaker and binou)
@@ -220,10 +234,15 @@ PS2:-🆕WRC 4
 -Volume💯 
 -V-Rally 3💯 
 -Watch_Dogs💯 (except dead online)
+-Wilson Chronicles 
+-WoW Hentai 2!💯 
+-WoW Hentai!💯 
 -WRC 2💯 
 -WRC 2010💯 
 -WRC 3💯 
 -WRC 4💯 (shoutout to kylzemol for helping with the online mode)
+-WRC Powerslide 
+-КАНДИДАТ💯 
 
 
 [b]PS3[/b]
@@ -242,7 +261,6 @@ PS2:-🆕WRC 4
 -Black (Xbox One BC)
 -Call of Duty 2: Big Red One 
 -Forza Motorsport💯 
--Freedom Fighters (Underrated af)
 -Hello Kitty Roller Rescue 
 -R Racing Evolution 
 -Test Drive Eve of Destruction 
@@ -255,6 +273,7 @@ PS2:-🆕WRC 4
 -Constantine 
 -Double S.T.E.A.L 
 -F1 Career Challenge 
+-Freedom Fighters (Underrated af)
 -Group S Challenge💯 
 -Halo 
 -Halo 2 
@@ -270,19 +289,22 @@ PS2:-🆕WRC 4
 
 [b]PS2[/b]
 -WRC💯 
--🆕WRC 2 
--🆕WRC 2005💯 
--🆕WRC 3 
--🆕WRC 4 
 -Gran Turismo 3💯 
 -Gran Turismo 4💯 
 -Gran Turismo 4: Prologue 
+-Gran Turismo Concept 2001 Tokyo💯 JP ver
+-Gran Turismo Concept 2001 Tokyo-Geneva💯 
 -Tourist Trophy 
+-WRC 2 
+-WRC 2005💯 
+-WRC 3 
+-WRC 4 
 
 
 [b]Xbox One[/b]
 -Forza Horizon 2 (missing one coop ach)
 -Forza Horizon 2 Presents The Fast And The Furious💯 100%
+-Destiny 
 
 
 [b]Xbox 360[/b]
